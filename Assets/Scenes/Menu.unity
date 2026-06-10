@@ -3275,8 +3275,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 250.00003, y: 375}
-  m_SizeDelta: {x: -300, y: -750}
+  m_AnchoredPosition: {x: 450, y: 375}
+  m_SizeDelta: {x: -700, y: -750}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &830131813
 MonoBehaviour:
@@ -4026,7 +4026,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: NADNATURALNI
+  m_text: THE HUNT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0fdd03e14a1c9a24ba9b50df89f3fa28, type: 2}
   m_sharedMaterial: {fileID: 8445349168245898236, guid: 0fdd03e14a1c9a24ba9b50df89f3fa28, type: 2}
@@ -4060,7 +4060,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 4
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
